@@ -34,6 +34,4 @@ This project leverages **machine learning and data preprocessing techniques** to
 ## Future Improvements
 - Expand dataset with real-world behavioral data  
 - Implement deep learning models (LSTMs) for sequential stress prediction  
-- Deploy as a web API for real-time stress level analysis  
-
-This project demonstrates expertise in **data engineering, machine learning, and predictive analytics**, making it a valuable asset for **data science, data engineering, and analytics roles**. 🚀
+- Deploy as a web API for real-time stress level analysis
